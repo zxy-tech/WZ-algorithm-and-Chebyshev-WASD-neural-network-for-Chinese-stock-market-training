@@ -102,7 +102,3 @@ Through these scripts and files, the project achieves SSECI prediction, buy/sell
 
 **Execution Order**:  
 `ASF_predict.py` → `Main_Chebyshev5input.py` → `Plot_Chebyshev.py` → `Verification_Chebyshev.py` → `strategy.py`  
-
---- 
-
-Let me know if you'd like any refinements or additional details!
