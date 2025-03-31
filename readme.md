@@ -102,3 +102,14 @@ Through these scripts and files, the project achieves SSECI prediction, buy/sell
 
 **Execution Order**:  
 `ASF_predict.py` → `Main_Chebyshev5input.py` → `Plot_Chebyshev.py` → `Verification_Chebyshev.py` → `strategy.py`  
+
+
+If you want to discover more about Chevbyshev WASD Neural Network, please check and cite this book.
+\begin{bash}
+@book{zhang2019toward,
+  title={Toward deep neural networks: WASD neuronet models, algorithms, and applications},
+  author={Zhang, Yunong and Chen, Dechao and Ye, Chengxu},
+  year={2019},
+  publisher={Chapman and Hall/CRC}
+}
+\end{bash}
