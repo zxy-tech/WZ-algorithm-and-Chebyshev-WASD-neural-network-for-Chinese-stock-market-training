@@ -105,11 +105,11 @@ Through these scripts and files, the project achieves SSECI prediction, buy/sell
 
 
 If you want to discover more about Chevbyshev WASD Neural Network, please check and cite this book.
-\begin{bash}
+```bash
 @book{zhang2019toward,
   title={Toward deep neural networks: WASD neuronet models, algorithms, and applications},
   author={Zhang, Yunong and Chen, Dechao and Ye, Chengxu},
   year={2019},
   publisher={Chapman and Hall/CRC}
 }
-\end{bash}
+```
